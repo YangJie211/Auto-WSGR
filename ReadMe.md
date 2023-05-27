@@ -66,7 +66,9 @@ pip install -U AutoWSGR
 ```bash
 pip install -U git+https://github.com/huan-yp/Auto-WSGR.git@main
 ```
-
+```bash
+pip install -U git+https://gitee.com/Nickydusk/Auto-WSGR
+```
 
 
 ## 快速使用
