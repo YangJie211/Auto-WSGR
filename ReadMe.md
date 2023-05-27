@@ -70,7 +70,7 @@ pip install -U git+https://github.com/huan-yp/Auto-WSGR.git@main
 pip install -U git+https://gitee.com/Nickydusk/Auto-WSGR
 ```
 
-### 安装AutoWSGR
+### 卸载AutoWSGR
 
 
 ```bash
